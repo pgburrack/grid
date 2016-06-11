@@ -1,0 +1,21 @@
+{
+  "name": "grid",
+  "version": "1.0.0",
+  "description": "Responsive Mixin system",
+  "main": "index.js",
+  "scripts": {
+  	"start": "http-server",
+    "grunt-watch": "grunt watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liron Burrack",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-contrib-watch": "latest",
+    "assemble-less": "latest"
+  }
+}
